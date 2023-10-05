@@ -1,6 +1,8 @@
 # mobile_minggu5
 
 A new Flutter project.
+![image](https://github.com/KurniawatiAgustina/flutter-fundamental-part1/assets/113650883/13a4e308-2ebf-45f9-b9ca-82d84c544bd9)
+
 
 ## Getting Started
 
